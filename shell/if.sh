@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "数字を入力してください"
 read input 
 if [ $input -gt 10 ] ; then
